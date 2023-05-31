@@ -20,6 +20,6 @@
 <h3 align="left">Softwares que utilizo para estudos e projetos:</h3>
 
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() [![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()  [![](https://img.shields.io/badge/Windows-AMD-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-<p align="center"><img src="https://komarev.com/ghpvc/?username=brenovital&label=Profile%20views&color=0e75b6&style=flat" alt="carlosR" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=car-lo-s&label=Profile%20views&color=0e75b6&style=flat" alt="carlosR" /> </p>
 
 
