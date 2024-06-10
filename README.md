@@ -4,8 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=car-lo-s&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=car-lo-s&layout=compact)](https://github.com/car-lo-s)
 
-🏫 Faço curso de engenharia da computação na FAESA. <br>
-💻 Faço estágio na área de suporte no momento.<br>
+🏫 Formado em engenharia da computação na FAESA. <br>
+💻 Trabalho na área de suporte no momento.<br>
 📚 Estudando React e Typescript. <br>
 🌐 Acesse meu Portfólio:<a href="https://car-lo-s.github.io/react-port/#/react-port" target="_blank">car-lo-s.github.io/react-port/#/react-port</a> <br>
 <h3 align="left">Sociais:</h3>
