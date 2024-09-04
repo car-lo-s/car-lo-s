@@ -7,7 +7,7 @@
 🏫 Formado em engenharia da computação na FAESA. <br>
 💻 Trabalho na área de suporte no momento.<br>
 📚 Estudando C# no momento. <br>
-🌐 Acesse meu Portfólio:<a href="https://car-lo-s.github.io/react-port/#/react-port" target="_blank">car-lo-s.github.io/react-port/#/react-port</a> <br>
+🌐 Acesse meu Portfólio:<a href="https://car-lo-s.github.io/portfolio/" target="_blank">car-lo-s.github.io/react-port/#/react-port</a> <br>
 <h3 align="left">Sociais:</h3>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-renato-54252819b/)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Carlos_renatog)
