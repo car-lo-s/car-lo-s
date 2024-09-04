@@ -1,5 +1,5 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&size=25&duration=3000&pause=500&color=D93C7D&multiline=true&width=700&height=100&lines=Ol%C3%A1%2C+Me+chamo+Carlos+Renato!;Estudante+do+curso+de+engenharia+da+computa%C3%A7%C3%A3o." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&size=25&duration=3000&pause=500&color=D93C7D&multiline=true&width=700&height=100&lines=Ol%C3%A1%2C+Me+chamo+Carlos+Renato!;Formado+no+curso+de+engenharia+da+computa%C3%A7%C3%A3o." alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=car-lo-s&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=car-lo-s&layout=compact)](https://github.com/car-lo-s)
