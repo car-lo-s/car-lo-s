@@ -6,7 +6,7 @@
 
 🏫 Formado em engenharia da computação na FAESA. <br>
 💻 Trabalho na área de suporte no momento.<br>
-📚 Estudando React e Typescript. <br>
+📚 Estudando C# no momento. <br>
 🌐 Acesse meu Portfólio:<a href="https://car-lo-s.github.io/react-port/#/react-port" target="_blank">car-lo-s.github.io/react-port/#/react-port</a> <br>
 <h3 align="left">Sociais:</h3>
 
